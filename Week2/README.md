@@ -14,7 +14,7 @@ To put it simply, the process that runs inside a neuron for forward propagation 
 <br/>
 Similarly, we calculate this activation, A for all the neurons in all the layers. The activations of the previous layer act as input data for the next layer and the activation of the last layer gives the output, y^(y-hat)
 * ✅ Refer to this [3blue1brown video](https://www.youtube.com/watch?v=aircAruvnKk) to have a good visualisation
-* ✅ Refer to this [article](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250) to understand more and see how a implementation might look like( ❌ Bonus Activity: You can try to implement backpropagation yourself if you are done with everything else)
+* ✅ Refer to this [article](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250) to understand more and see how a implementation might look like( ❌Bonus Activity: You can try to implement backpropagation yourself if you are done with everything else)
 <br/><br/>
 ### **Activation Functions** <br/>
 We can use different types of activation functions such as sigmoid, tanh, Relu (rectified linear unit), leaky relu.
